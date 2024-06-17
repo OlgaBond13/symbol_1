@@ -1,1 +1,1 @@
-# symbol_1
+string[] array
